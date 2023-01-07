@@ -1,3 +1,4 @@
 # myWebsite
 Created with HTML and CSS.
-![screencapture-file-Volumes-SB-STORAGE-website-index-html-2023-01-05-19_34_08](https://user-images.githubusercontent.com/112893324/210905917-c3ba7a13-9962-448f-9a24-46a6ef834b16.png)
+![screencapture-sahil17999-github-io-myWebsite-2023-01-06-20_07_32](https://user-images.githubusercontent.com/112893324/211124173-1f03f693-246e-4b1b-a5f2-6d8057394f9e.png)
+
