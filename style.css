@@ -261,10 +261,10 @@ body{
     margin-top: 50px;
     color: #fff;
     padding-top: 10px;
-    width: 100%;
+    width: 100% !important;
 }
 .lni-heart{
-    color: red;
+    color: red !important;
 } 
 
 /*------------Social-icons--------------*/
