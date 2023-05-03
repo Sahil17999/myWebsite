@@ -272,7 +272,7 @@ body{
     width: 80px;
 }
 .social-icons ul{
-    padding: initial;
+    padding: initial; /*padding set to initial so that there is no padding on the right side of the ul.*/
 }
 .social-icons ul li{
     height: 40px;
